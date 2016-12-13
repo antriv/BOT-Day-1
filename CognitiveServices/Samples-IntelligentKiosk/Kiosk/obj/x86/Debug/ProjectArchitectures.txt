@@ -1,0 +1,2 @@
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\IntelligentKioskSample.csproj;x86
+C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\ServiceHelpers.csproj;neutral

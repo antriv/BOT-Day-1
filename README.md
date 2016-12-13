@@ -1,1 +1,2 @@
-# BOT-Day-1
+# CognitiveAPIandBots
+Contents for Day 1
