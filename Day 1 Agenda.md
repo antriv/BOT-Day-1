@@ -1,53 +1,56 @@
 ## Introduction
-This tutorial will ramp up the attendee on the Microsoft cognitive APIs and Bot Framework, providing sample codes.  Components will be laid out for the attendee. The lecture and demo part will be for 1 and a Ω days. Weíll end this training with a Ω day hackathon. The attendee will get a chance to ìbring their own scenarioî to work on during the hackathon. Components will be laid out for the attendee so that in the end they will have a working smart bot .
-
-
+This 2-day course, designed for developers and data scientists, will ramp up the attendee very quickly on Microsoft's powerful Cognitive Services APIs and bot development tools as part of the Bot framework. We would look at the Intelligent APIs separately as independent and innovative tools-of-the-trade. We would also focus on the power of combining these APIs with the Bot Framework to create intelligent bots. This course will help the attendees decide on how they want to make a Smart Bot to solve a repetitive task or some unique scenario they have encountered. User experience will be heavily emphasized to create the best bot experiences. Components will be laid out for the attendees so that in the end they will have a working, published bot or many. The lecture and the lab part will be for 1 and a ¬Ω days. We‚Äôll end this training with a ¬Ω day hackathon. The attendees will get a chance to ‚Äúbring their own scenario‚Äù to work on during the hackathon. Components will be laid out for the attendee so that in the end they will have a working smart bot.
 
 ##Duration:2 days
 TITLE: Getting to work with Smart Bots
-Speakers: Anusua Trivedi, Mithun Prasad
+Speakers: Anusua Trivedi
 
-
-
-##Day 1 Outline: 9:00 am ñ 4:00 pm IST
-Section 1: 15 mins ñ 9:00 am
+##Day 1 Outline: 10:00 am ‚Äì 4:00 pm IST
+Section 1: 15 mins ‚Äì 10:00 am
 1.	Welcome
 2.	Introduction
 
-Section 2: 90 mins ñ 9:15 am
+Section 2: 90 mins ‚Äì 10:15 am
 1.	Cognitive Services Overview
 2.	Cognitive Services Demo
 
-Break: 15 mins ñ 10:45 am
+Lunch ‚Äì 11:45 pm ‚Äì 12:45 pm
 
-Section 3: 90 mins ñ 11:00 am
+Section 3: 90 mins ‚Äì 12:45 pm
 1.	Cognitive Services Deep Dive
-2.	Hands-on-Labs
+2.	Hands-on labs
 
-Lunch ñ 12:30 pm ñ 1:30 pm
+Break ‚Äì 15 mins ‚Äì 2:15 pm
 
-Section 4: 60 mins ñ 1:30 pm
+Section 4: 75 mins ‚Äì 2:30 pm
 1.	Bot Framework Overview
 2.	Bot User Experience: Principles and Best Practices
+3.	Simple Bot example
 
-Break: 15 mins ñ 2:30 pm
-
-Section 5: 60 mins ñ 2:45 pm
-1.	Bot Framework Developer's Introduction
-a.	Toolbox
-b.	Bot Emulator
-c.	Publishing a bot
-d.	Registering a bot
-e.	Working with channels
-
-Section 6: 15 mins ñ 3:45 pm
+Section 5: 15 mins ‚Äì 3:45 pm
 1.	Summary
 2.	Q/A
 
+##Day 2 Outline: 10:00 am ‚Äì 4:00 pm IST
+Section 1: 15 mins ‚Äì 10:00 am
+1.	Welcome
+2.	Introduction
 
+Section 2: 90 mins ‚Äì 10:15 am
+1.	Build a simple bot - Hands-on-Labs
+2.	Build a Smart bot - Hands-on-Labs
 
-##A list of pre-requisites is as follows:
-1.	Visual Studio 2015 (Community version is ok) (could use Visual Studio Code on non-Windows systems ñ however most these instructions are working from Visual Studio) - download here
+Lunch: 11:45 pm ‚Äì 12:45 pm
+
+Section 3: 12:45 pm to 3:45 pm
+HACKATHON: Attendees ‚Äúbring their own scenario‚Äù to work on during the half day Hackathon. We‚Äôll separate into groups and brainstorm together to build solutions to the problem attendees bring onto the table. Create one page/slide presentation and present with codes 
+
+Section 4: 15 mins ‚Äì 3:45 pm
+1.	Summary
+2.	Q/A
+
+A list of pre-requisites is as follows:
+1.	Visual Studio 2015 (Community version is ok) (could use Visual Studio Code on non-Windows systems ‚Äì however most these instructions are working from Visual Studio) - download here
 2.	A Microsoft Account to log into the Bot Framework developer portal, which you will use to register your Bot as well as to sign up for Cognitive Services subscriptions (if you have Hotmail, Live, Outlook.com, or an Xbox account then you already have a Microsoft Account).
 3.	The Bot Framework Emulator from the Bot Framework Downloads page.
 4.	The Bot Framework Visual Studio Template (C#) from the Bot Framework Downloads page.
