@@ -37,3 +37,42 @@ C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\S
 C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\AttachmentBot\AttachmentBot\obj\Debug\AttachmentBot.csprojResolveAssemblyReference.cache
 C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\AttachmentBot\AttachmentBot\obj\Debug\Bot Application1.dll
 C:\Users\antriv\OneDrive - Microsoft\BOTS\Cognitive API and Bot Education\BOTs\Samples\CSharp\AttachmentBot\AttachmentBot\obj\Debug\Bot Application1.pdb
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Bot Application1.dll.config
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Bot Application1.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Bot Application1.pdb
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Autofac.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Chronic.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Newtonsoft.Json.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Net.Http.Formatting.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Web.Http.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Web.Http.WebHost.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Autofac.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\Newtonsoft.Json.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Net.Http.Formatting.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Web.Http.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\System.Web.Http.WebHost.xml
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\obj\Debug\AttachmentBot.csprojResolveAssemblyReference.cache
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\obj\Debug\Bot Application1.dll
+C:\Users\antriv\Documents\GitHub\BOT-Day-1\BOTs\SimpleBots\AttachmentBot\AttachmentBot\obj\Debug\Bot Application1.pdb
