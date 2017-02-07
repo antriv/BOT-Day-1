@@ -10,7 +10,7 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>bdf9127b-7e32-469b-a6ed-f57a0a80ae23</PackageIdentityName>
     <PackageIdentityPublisher>CN=Kiosk</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType>
     </RemoteDeploymentType>
     <PackageRegistrationPath>
@@ -25,16 +25,16 @@
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-12-07T10:22:41.200</Modified>
+      <Modified>2017-02-06T19:17:39.348</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.exe">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.exe">
       <PackagePath>entrypoint\IntelligentKioskSample.exe</PackagePath>
-      <Modified>2016-12-07T10:17:44.289</Modified>
+      <Modified>2017-02-06T19:17:35.549</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\antriv\.nuget\packages\Microsoft.Bcl.Async\1.0.168\lib\win8\Microsoft.Threading.Tasks.Extensions.dll">
       <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
@@ -488,101 +488,101 @@
       <PackagePath>WriteableBitmapEx.WinRT.dll</PackagePath>
       <Modified>2015-03-31T21:28:46.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\ServiceHelpers\bin\Debug\ServiceHelpers.dll">
       <PackagePath>ServiceHelpers.dll</PackagePath>
-      <Modified>2016-12-07T10:17:39.181</Modified>
+      <Modified>2017-02-06T19:17:28.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\BingNewsAnalytics.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\BingNewsAnalytics.png">
       <PackagePath>Assets\BingNewsAnalytics.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.578</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\camera.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\camera.png">
       <PackagePath>Assets\camera.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.609</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\female.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\female.png">
       <PackagePath>Assets\female.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.611</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\male_blue.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\male_blue.png">
       <PackagePath>Assets\male_blue.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.617</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\EmotionRecognition.PNG">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\EmotionRecognition.PNG">
       <PackagePath>Assets\EmotionRecognition.PNG</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.584</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\FaceAPI.PNG">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\FaceAPI.PNG">
       <PackagePath>Assets\FaceAPI.PNG</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.587</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\male.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\male.png">
       <PackagePath>Assets\male.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.614</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\Mall.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\Mall.png">
       <PackagePath>Assets\Mall.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.602</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\oxford-face.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\oxford-face.png">
       <PackagePath>Assets\oxford-face.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.622</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\RealTime.PNG">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\RealTime.PNG">
       <PackagePath>Assets\RealTime.PNG</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.603</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\smalltile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\smalltile-sdk.png">
       <PackagePath>Assets\smalltile-sdk.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.623</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\splash-sdk.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\splash-sdk.png">
       <PackagePath>Assets\splash-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.626</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.606</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk.png">
       <PackagePath>Assets\squaretile-sdk.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.629</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk-44.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\squaretile-sdk-44.png">
       <PackagePath>Assets\squaretile-sdk-44.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.628</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.scale-10.png">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Assets\StoreLogo.scale-10.png">
       <PackagePath>Assets\StoreLogo.scale-10.png</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:41.608</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:44.209</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Views\MallKioskDemoConfig\MallKioskDemoSettings.xml">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\Views\MallKioskDemoConfig\MallKioskDemoSettings.xml">
       <PackagePath>Views\MallKioskDemoConfig\MallKioskDemoSettings.xml</PackagePath>
-      <Modified>2016-08-18T21:44:44.000</Modified>
+      <Modified>2017-02-06T00:10:46.620</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.xr.xml">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\IntelligentKioskSample.xr.xml">
       <PackagePath>IntelligentKioskSample.xr.xml</PackagePath>
-      <Modified>2016-11-27T04:29:42.713</Modified>
+      <Modified>2017-02-06T00:10:58.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
       <Modified>2016-11-27T15:27:08.160</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-12-07T10:22:40.953</Modified>
+      <Modified>2017-02-06T19:17:38.483</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\antriv\OneDrive - Microsoft\BOTS\APINBot\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\IntelligentKioskSample.exe">
+    <AppxPackagedFile Include="C:\Users\antriv\Documents\GitHub\BOT-Day-1\CognitiveServices\Samples-IntelligentKiosk\Kiosk\bin\x86\Debug\Core\IntelligentKioskSample.exe">
       <PackagePath>IntelligentKioskSample.exe</PackagePath>
-      <Modified>2016-12-07T10:22:41.194</Modified>
+      <Modified>2017-02-06T19:17:39.330</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
